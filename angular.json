@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jwtAngulaProject"
+    }
+  },
+  "defaultProject": "jwtAngulaProject",
+  "cli": {
+    "analytics": "e1f017de-d6a0-4e36-97e5-bed308a61993"
+  }
 }
